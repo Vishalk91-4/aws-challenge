@@ -78,6 +78,3 @@ To run the application locally, follow these steps:
    ```
 
 6. Access the application in your browser at `http://localhost:5173`.
-
-Feel free to customize and expand upon this README as needed for your project documentation. If you have any specific requirements or questions, let me know!
->>>>>>> 1e5197d (Added UI pages and the AI chat feat)
